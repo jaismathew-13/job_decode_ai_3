@@ -1,0 +1,14 @@
+.venv
+venv
+__pycache__
+*.pyc
+faiss_index
+index.faiss
+index.pkl
+.env
+*.log
+.vscode
+.idea
+.DS_Store
+.git
+.gitignore
